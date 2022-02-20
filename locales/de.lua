@@ -1,0 +1,23 @@
+-- Deutsch
+Locales['de'] = {
+	['dj_bliptext'] = 'DJ-Job',
+	['start_dj'] = '~w~DJ-Equipment wurde aufgebaut, benutze die Taste ~b~[E] ~w~um Musik abzuspielen!',
+	['no_dj'] = '~r~Du bist kein DJ oder nicht im Dienst/das Menü ist bereits offen!',
+	['stop_dj'] = '~r~Du hast dein DJ-Equipment erfolgreich abgebaut!',
+	['pos_dj'] = '~r~Du bist nicht in der Nähe von deinem DJ Setup!',
+	['djhelp'] = '~w~Drücke ~INPUT_ENTER~ um deinen ~b~DJ-Dienst ~w~zu beginnen/beenden!',
+	['duty_on'] = '~g~Dienst begonnen!',
+	['duty_off'] = '~r~Dienst beendet!',
+	['help_dj2'] = '~w~Drücke ~INPUT_PICKUP~ um das ~b~DJ-Menü ~w~zu öffnen!',
+	['salary_dj'] = '~g~Du hast Lohn bekommen: ~b~',
+	['no_listeners'] = '~r~Keine Zuhörer in der Nähe!',
+	['play_music'] = 'Musik abspielen',
+	['stop_music'] = 'Musik ausschalten',
+	['play_animation'] = 'Animation abspielen/beenden',
+	['menu_dj'] = 'DJ-Menü',
+	['music_playing'] = '~g~Musik wird abgespielt!',
+	['music_title'] = 'Musiklink (Youtube, Direktlink ...)',
+	['music_stopping'] = '~r~Musik wurde ausgeschaltet!',
+	['animation_start'] = '~g~Animation wird gestartet!',
+	['animation_stop'] = '~r~Animation wird beendet!',
+}

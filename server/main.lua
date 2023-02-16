@@ -13,10 +13,6 @@
 
 -- ONLY EDIT IF YOU KNOW WHAT YOU ARE DOING!
 
-ESX = nil
-
-TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
-
 RegisterServerEvent('esx_dj_job:pay')
 AddEventHandler('esx_dj_job:pay', function(amount)
 	local _source = source

@@ -4,12 +4,14 @@ games {'gta5'}
 author 'Nemesus.de'
 description 'Adds an DJ Job to the ESX Framework'
 contact 'info@nemesus.de'
-version '1.2'
+version '1.3'
 
 dependencies {
 	"es_extended",
 	"xsound"
 }
+
+shared_script '@es_extended/imports.lua'
 
 server_scripts {
 	'server/main.lua'

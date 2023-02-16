@@ -15,7 +15,7 @@
 
 print("^0======================================================================^7")
 print("^0ESX_NJ_JOB loaded:")
-print("^0[^4Author^0] ^7:^0 ^0Nemesus | Version 1.2^7")
+print("^0[^4Author^0] ^7:^0 ^0Nemesus | Version 1.3^7")
 print("^0[^2Website^0] ^7:^0 ^5https://nemesus.de^7")
 print("^0[^2Youtube^0] ^7:^0 ^5https://youtube.nemesus.de^7")
 print("^0======================================================================^7")
@@ -23,7 +23,6 @@ print("^0======================================================================^
 -- ONLY EDIT IF YOU KNOW WHAT YOU ARE DOING!
 
 -- Local variables
-ESX = nil
 xSound = exports.xsound
 local objectTableCreated = nil
 local objectDJCreated = nil
@@ -39,11 +38,6 @@ local IsMenuOpen = false
 local playAnimation = false
 
 Citizen.CreateThread(function()
-	while ESX == nil do
-		TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
-		Citizen.Wait(0)
-	end
-
 	while ESX.GetPlayerData().job == nil do
 		Citizen.Wait(10)
 	end

@@ -1,11 +1,12 @@
-# 🎮 Fivem-ESX-nDJ-Job 🎮
-DJ-Job für das FiveM ESX Framework
+🎮 Fivem-Standalone-nEUPMenu 🎮
 
-Diese Ressource fügt dem ESX Framework für FiveM, einen DJ-Job hinzu. Mit diesem Job könnt Ihr ein DJ-Pult aufbauen und Musik abspielen (Youtube, Direkt ...) und somit euer Geld auf einem GTA5 Server verdienen.
+EUP Standalone Menu
 
-**Auf der Suche nach einem günstigen FiveM Server? ZAP-Hosting: https://bit.ly/3CW56Vh und mit dem Gutschein: Nsus-a-3805 noch kräftig sparen! (Werbung)**
+With this resource, you have the ability to browse, preview, and select EUP skins in a Vue.js-based frontend (no NativeUI).
 
-Youtube Video: https://www.youtube.com/watch?v=wOOz96TZfL8
+Looking for an affordable FiveM server? ZAP-Hosting: https://bit.ly/3CW56Vh and save even more with the voucher code: Nsus-a-3805! (Advertisement)
+
+YouTube Video: https://www.youtube.com/watch?v=wOOz96TZfL8
 
 Support: https://discord.nemesus.de
 
@@ -13,6 +14,8 @@ Homepage: https://nemesus.de
 
 Dependencies: https://github.com/Xogy/xsound
 
-☕ Ihr wollt uns unterstützen? https://ko-fi.com/nemesustv ☕
+☕ Want to support us? https://ko-fi.com/nemesustv ☕
 
-Viel Spass mit dieser Ressource!
+Have fun with this resource!
+
+Do you want me to also rewrite it in a more polished and professional style for GitHub or a release page? That way it would read more like an official resource description.
